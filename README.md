@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **venkataraman385@gmail.com**
 
-- 🎙️Listen to my Soundtrack at (Apple Music) [https://music.apple.com/in/artist/venkataraman/1148050914](https://music.apple.com/in/artist/venkataraman/1148050914)
+- 🎙️Listen to my Soundtrack at (Apple Music) [Artist@AppleMusic](https://music.apple.com/in/artist/venkataraman/1148050914)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
