@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://venkataraman-portfolio.netlify.app/](https://venkataraman-portfolio.netlify.app/)
 
-- 🎙️ Listen to my Soundtrack at (Spotify) [https://open.spotify.com/artist/4rIsIHhotmWuWXdW3MyrHd](https://open.spotify.com/artist/4rIsIHhotmWuWXdW3MyrHd)
+- 🎙️ Listen to my Soundtrack at (Spotify) [Artist@Spotify](https://open.spotify.com/artist/4rIsIHhotmWuWXdW3MyrHd)
 
 - ✨ See to my rendering skills at **https://venkataraman-3d-portfolio.netlify.app/**
 
