@@ -7,13 +7,13 @@
 
 - 🎓 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
-- 🧑‍💻 Watch my coding activities at **https://leetcode.com/VenkataramanTB/**
+- 🧑‍💻 Watch my coding activities at [Leetcode/Profile](https://leetcode.com/VenkataramanTB/)
 
 - 🌱 I’m currently learning **Data Structures & Algorithm**
 
 - 💭 Ask me anything about **App Development ( IOS Development)**
 
-- 👨‍💻 All of my projects are available at [https://venkataraman-portfolio.netlify.app/](https://venkataraman-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://venkataraman-portfolio.netlify.app/)
 
 - 🎙️ Listen to my Soundtrack at (Spotify) [Artist@Spotify](https://open.spotify.com/artist/4rIsIHhotmWuWXdW3MyrHd)
 
