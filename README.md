@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkataramantb&label=Profile%20views&color=0e75b6&style=flat" alt="venkataramantb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkataramantb" alt="venkataramantb" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=venkataramantb" alt="venkataramantb" /></a> </p>
 
 - 🎓 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
