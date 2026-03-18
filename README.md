@@ -2,8 +2,7 @@
 <h3 align="center">AI Engineer @ Mythics (Oracle) | Full-Stack Developer | Music Composer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkataramantb&label=Profile%20views&color=0e75b6&style=flat" alt="venkataramantb" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=venkataramantb)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 
 - 🏢 I'm currently working at **Mythics** as an **AI Engineer**, building intelligent solutions around **Oracle Cloud HCM**
 
