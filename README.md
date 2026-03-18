@@ -174,8 +174,6 @@ echo "Currently building the future, one commit at a time..."
 
 </div>
 
-> **📝 Snake Setup:** To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk#github-action) to your `venkataramantb/venkataramantb` repo.
-
 ---
 
 <div align="center">
