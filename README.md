@@ -13,7 +13,7 @@
 ║   > Full-Stack Developer | Music Composer | Filmmaker            ║
 ║                                                                  ║
 ║   $ cat /etc/skills                                              ║
-║   > Oracle Cloud HCM | React + React Flow | Node.js | Python    ║
+║   > Oracle Cloud HCM | React + React Flow | Node.js | Python     ║
 ║   > Deep Learning | Data Pipelines | Audio Engineering           ║
 ║                                                                  ║
 ║   $ uptime                                                       ║
