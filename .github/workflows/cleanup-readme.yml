@@ -1,0 +1,30 @@
+name: Cleanup README
+
+on:
+  workflow_dispatch: # Run manually from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Remove snake setup note
+        run: |
+          sed -i '/> \*\*📝 Snake Setup:\*\*/d' README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes to commit" && exit 0
+          git add README.md
+          git commit -m "Remove outdated snake setup note from README"
+          git push origin main
