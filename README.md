@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkataramantb&label=Profile%20views&color=0e75b6&style=flat" alt="venkataramantb" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=venkataramantb" alt="venkataramantb" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=venkataramantb)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🏢 I'm currently working at **Mythics** as an **AI Engineer**, building intelligent solutions around **Oracle Cloud HCM**
 
